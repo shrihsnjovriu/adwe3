@@ -14,7 +14,7 @@
 
 Olá, me chamo **Outzz**, mas pode me chamar de **Out**.
 
-Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"> **Javascript** de 14 anos, <img src="https://acordeiqueroviajar.com.br/wp-content/uploads/2017/12/youtube-logo.png" width="20px"> **youtuber** nas horas vagas, aprendendo a ser 🎥 **videomaker** e um péssimo 🎮 **jogador**.
+Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"> **Javascript** de 15 anos, <img src="https://acordeiqueroviajar.com.br/wp-content/uploads/2017/12/youtube-logo.png" width="20px"> **youtuber** nas horas vagas, aprendendo a ser 🎥 **videomaker** e um péssimo 🎮 **jogador**.
 
 ---
 <!--
