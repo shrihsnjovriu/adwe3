@@ -10,7 +10,7 @@
 
 ---
 
-<img align="left" height="220" src="https://media.discordapp.net/attachments/813932772799414296/814306216598569019/merlin_155953353_06939b86-7458-44a6-8781-57e2eaa661aa-superJumbo.jpg?width=859&height=559"/>
+<img align="left" height="220" src="https://media.discordapp.net/attachments/828069112823152641/828360343407427584/65bf5b184ff3a29aa75f92534a60465d.png?width=468&height=468"/>
 
 Olá, me chamo **Outzz**, mas pode me chamar de **Out**.
 
